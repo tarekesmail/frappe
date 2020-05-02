@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     stages {
-        stage ('First') {
+        stage ('FirstA') {
             agent any
             steps {
                 echo "First dummy stage"
