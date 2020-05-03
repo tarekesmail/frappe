@@ -5,7 +5,8 @@
 4. Files Function
 
 # Helm Charts
-To run the helm charts to new kubernetes cluster just install helm 3 in your machine with the following steps
+To run the helm charts to new kubernetes cluster just install helm 3 in your machine with the following steps:
+
 `$ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3
 $ chmod 700 get_helm.sh
 $ ./get_helm.sh`
